@@ -509,6 +509,10 @@ mark,
   color: #f0db4f;
 }
 
+.list-inline-item .fa-git-alt {
+  color: #f05133;
+}
+
 .list-inline-item:not(:last-child) {
   margin-right: 0.5rem;
 }
