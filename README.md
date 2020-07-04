@@ -1,1 +1,1 @@
-[My CV](quannh2807.github.io)
+[My CV](https://quannh2807.github.io/)
